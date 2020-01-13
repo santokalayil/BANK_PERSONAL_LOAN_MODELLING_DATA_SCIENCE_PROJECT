@@ -8,6 +8,8 @@ Designing an optimal and efficient model that can help the bank identify the pot
 
 The department wants to build a model that will help them identify the potential customers who have a higher probability of purchasing the loan. This will increase the success ratio while at the same time reduce the cost of the campaign.
 
+| Read This Before Reading the Project:
+I use my own custom made module to improve code readability in the Jupyter Notebook. If you need to see the functions which are imported from santa_modelling, please see the santa_modelling.py file in the same repository
 
 
 Project done by : 
